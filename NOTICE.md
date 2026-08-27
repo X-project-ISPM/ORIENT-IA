@@ -15,8 +15,9 @@ une source absente du registre.
 ## TatumLn/Orient_IA_-LOL-
 
 - **Dépôt** : https://github.com/TatumLn/Orient_IA_-LOL-
-- **Licence** : MIT
-- **Notice de copyright** : `MIT License — Copyright (c) 2026 PROSPER`
+- **Licence** : MIT — notice de copyright dans le fichier
+  [`LICENSE`](https://github.com/TatumLn/Orient_IA_-LOL-/blob/main/LICENSE) du
+  dépôt d'origine, qui fait foi
 - **Identifiant interne** : `SRC-TIERS-ORIENTIA-LOL`
 
 Équipe tierce ayant traité le même sujet ISPM. Deux éléments réutilisés :
