@@ -1,0 +1,3454 @@
+[
+  {
+    "id": "reponse_0001",
+    "population": "professionnel",
+    "parcours_declare": null,
+    "parcours_brut": "Biotechnologie et Agronomie 2022",
+    "profil": {
+      "matieres_preferees": [],
+      "resultats_scolaires": {},
+      "competences_declarees": [],
+      "centres_interet": [],
+      "activites_projets": [],
+      "preferences_professionnelles": [],
+      "environnement_travail_recherche": null,
+      "serie_bac": null,
+      "informations_manquantes": []
+    },
+    "provenance": {},
+    "satisfaction": null,
+    "metier_exerce": "Anonyme",
+    "adequation_formation_metier": 3,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "parcours non résolu depuis la réponse libre"
+  },
+  {
+    "id": "reponse_0002",
+    "population": "etudiant",
+    "parcours_declare": "IGGLIA",
+    "parcours_brut": "IGGLIA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques",
+        "Informatique"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 13.0,
+        "Informatique": 13.0
+      },
+      "competences_declarees": [
+        "algorithmique"
+      ],
+      "centres_interet": [
+        "entrepreneuriat",
+        "logiciels"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "developpement_logiciel"
+      ],
+      "environnement_travail_recherche": "bureau_informatique",
+      "serie_bac": "C",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 4,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0003",
+    "population": "etudiant",
+    "parcours_declare": "IGGLIA",
+    "parcours_brut": "IGGLIA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques",
+        "Informatique"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 10.0,
+        "Informatique": 10.0
+      },
+      "competences_declarees": [
+        "algorithmique",
+        "programmation"
+      ],
+      "centres_interet": [
+        "logiciels"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "developpement_logiciel"
+      ],
+      "environnement_travail_recherche": "bureau_informatique",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 1,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0004",
+    "population": "etudiant",
+    "parcours_declare": "ISAIA",
+    "parcours_brut": "ISAIA",
+    "profil": {
+      "matieres_preferees": [
+        "Physique"
+      ],
+      "resultats_scolaires": {
+        "Physique": 13.0
+      },
+      "competences_declarees": [
+        "analyse_de_donnees"
+      ],
+      "centres_interet": [
+        "donnees"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "informatique_decisionnelle"
+      ],
+      "environnement_travail_recherche": "bureau_analytique",
+      "serie_bac": "C",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 4,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0005",
+    "population": "etudiant",
+    "parcours_declare": "ESIIA",
+    "parcours_brut": "ESIIA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques",
+        "Informatique",
+        "Physique"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 16.0,
+        "Informatique": 16.0,
+        "Physique": 16.0
+      },
+      "competences_declarees": [
+        "programmation",
+        "electronique"
+      ],
+      "centres_interet": [
+        "robotique"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "systemes_embarques"
+      ],
+      "environnement_travail_recherche": "laboratoire_atelier",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 4,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0006",
+    "population": "etudiant",
+    "parcours_declare": "IGGLIA",
+    "parcours_brut": "IGGLIA",
+    "profil": {
+      "matieres_preferees": [
+        "Informatique"
+      ],
+      "resultats_scolaires": {
+        "Informatique": 13.0
+      },
+      "competences_declarees": [
+        "algorithmique"
+      ],
+      "centres_interet": [
+        "logiciels",
+        "entrepreneuriat"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "developpement_logiciel"
+      ],
+      "environnement_travail_recherche": "bureau_informatique",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 1,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0007",
+    "population": "professionnel",
+    "parcours_declare": null,
+    "parcours_brut": "MISA+BACC+4",
+    "profil": {
+      "matieres_preferees": [],
+      "resultats_scolaires": {},
+      "competences_declarees": [],
+      "centres_interet": [],
+      "activites_projets": [],
+      "preferences_professionnelles": [],
+      "environnement_travail_recherche": null,
+      "serie_bac": null,
+      "informations_manquantes": []
+    },
+    "provenance": {},
+    "satisfaction": null,
+    "metier_exerce": "Ingenieur logiciel",
+    "adequation_formation_metier": 3,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "parcours non résolu depuis la réponse libre"
+  },
+  {
+    "id": "reponse_0008",
+    "population": "etudiant",
+    "parcours_declare": "IGGLIA",
+    "parcours_brut": "IGGLIA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques",
+        "Informatique",
+        "Physique",
+        "Langues"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 10.0,
+        "Informatique": 10.0,
+        "Physique": 10.0,
+        "Langues": 10.0
+      },
+      "competences_declarees": [
+        "programmation"
+      ],
+      "centres_interet": [
+        "technologie",
+        "logiciels"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "developpement_logiciel"
+      ],
+      "environnement_travail_recherche": "bureau_informatique",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 3,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0009",
+    "population": "etudiant",
+    "parcours_declare": null,
+    "parcours_brut": null,
+    "profil": {
+      "matieres_preferees": [
+        "Physique"
+      ],
+      "resultats_scolaires": {
+        "Physique": 13.0
+      },
+      "competences_declarees": [],
+      "centres_interet": [],
+      "activites_projets": [],
+      "preferences_professionnelles": [],
+      "environnement_travail_recherche": null,
+      "serie_bac": null,
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee"
+    },
+    "satisfaction": 4,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "parcours non résolu depuis la réponse libre"
+  },
+  {
+    "id": "reponse_0010",
+    "population": "etudiant",
+    "parcours_declare": "DTJA",
+    "parcours_brut": "DTJA",
+    "profil": {
+      "matieres_preferees": [
+        "Histoire et géographique"
+      ],
+      "resultats_scolaires": {
+        "Histoire et géographique": 19.0
+      },
+      "competences_declarees": [
+        "redaction"
+      ],
+      "centres_interet": [
+        "droit_des_affaires"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "assistant_juridique"
+      ],
+      "environnement_travail_recherche": "bureau_cabinet",
+      "serie_bac": "A",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 5,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0011",
+    "population": "etudiant",
+    "parcours_declare": "IGGLIA",
+    "parcours_brut": "IGGLIA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 16.0
+      },
+      "competences_declarees": [
+        "algorithmique",
+        "programmation"
+      ],
+      "centres_interet": [
+        "technologie"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "developpement_logiciel"
+      ],
+      "environnement_travail_recherche": "bureau_informatique",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 3,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0012",
+    "population": "professionnel",
+    "parcours_declare": "IGGLIA",
+    "parcours_brut": "Igglia 2024",
+    "profil": {
+      "matieres_preferees": [],
+      "resultats_scolaires": {},
+      "competences_declarees": [
+        "algorithmique",
+        "programmation"
+      ],
+      "centres_interet": [
+        "logiciels"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "gestion_it"
+      ],
+      "environnement_travail_recherche": "bureau_informatique",
+      "serie_bac": "C",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": null,
+    "metier_exerce": "développeur",
+    "adequation_formation_metier": 2,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "aucun trait de profil réellement déclaré"
+  },
+  {
+    "id": "reponse_0013",
+    "population": "etudiant",
+    "parcours_declare": "IGGLIA",
+    "parcours_brut": "IGGLIA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 13.0
+      },
+      "competences_declarees": [
+        "programmation",
+        "gestion_de_projet"
+      ],
+      "centres_interet": [
+        "entrepreneuriat",
+        "logiciels"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "developpement_logiciel"
+      ],
+      "environnement_travail_recherche": "bureau_informatique",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 3,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0014",
+    "population": "etudiant",
+    "parcours_declare": "IGGLIA",
+    "parcours_brut": "IGGLIA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 13.0
+      },
+      "competences_declarees": [
+        "gestion_de_projet"
+      ],
+      "centres_interet": [
+        "entrepreneuriat",
+        "technologie"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "gestion_it"
+      ],
+      "environnement_travail_recherche": "bureau_informatique",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 3,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0015",
+    "population": "etudiant",
+    "parcours_declare": "TEH",
+    "parcours_brut": "TEH",
+    "profil": {
+      "matieres_preferees": [
+        "Langues"
+      ],
+      "resultats_scolaires": {
+        "Langues": 13.0
+      },
+      "competences_declarees": [
+        "gestion_hoteliere"
+      ],
+      "centres_interet": [
+        "hospitalite"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "hotellerie"
+      ],
+      "environnement_travail_recherche": "hotel_contact_client",
+      "serie_bac": "S",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 4,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0016",
+    "population": "etudiant",
+    "parcours_declare": "ISAIA",
+    "parcours_brut": "ISAIA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques",
+        "Physique"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 16.0,
+        "Physique": 16.0
+      },
+      "competences_declarees": [
+        "statistiques"
+      ],
+      "centres_interet": [
+        "finance"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "informatique_decisionnelle"
+      ],
+      "environnement_travail_recherche": "bureau_analytique",
+      "serie_bac": "S",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 3,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0017",
+    "population": "etudiant",
+    "parcours_declare": null,
+    "parcours_brut": null,
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques",
+        "Physique"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 13.0,
+        "Physique": 13.0
+      },
+      "competences_declarees": [],
+      "centres_interet": [],
+      "activites_projets": [],
+      "preferences_professionnelles": [],
+      "environnement_travail_recherche": null,
+      "serie_bac": null,
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee"
+    },
+    "satisfaction": 2,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "parcours non résolu depuis la réponse libre"
+  },
+  {
+    "id": "reponse_0018",
+    "population": "professionnel",
+    "parcours_declare": "ESIIA",
+    "parcours_brut": "ISPM ESIIA Master (2010), UCT COMPUTER SCIENCE PhD (2027)",
+    "profil": {
+      "matieres_preferees": [],
+      "resultats_scolaires": {},
+      "competences_declarees": [
+        "programmation"
+      ],
+      "centres_interet": [
+        "materiel_informatique"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "systemes_embarques"
+      ],
+      "environnement_travail_recherche": "laboratoire_atelier",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": null,
+    "metier_exerce": "Enseignant-chercheur",
+    "adequation_formation_metier": 5,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "aucun trait de profil réellement déclaré"
+  },
+  {
+    "id": "reponse_0019",
+    "population": "etudiant",
+    "parcours_declare": "IGGLIA",
+    "parcours_brut": "IGGLIA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques",
+        "Informatique"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 10.0,
+        "Informatique": 10.0
+      },
+      "competences_declarees": [
+        "programmation"
+      ],
+      "centres_interet": [
+        "logiciels",
+        "technologie"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "gestion_it"
+      ],
+      "environnement_travail_recherche": "bureau_informatique",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 5,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0020",
+    "population": "professionnel",
+    "parcours_declare": "ESIIA",
+    "parcours_brut": "Esiia 3 année 2025",
+    "profil": {
+      "matieres_preferees": [],
+      "resultats_scolaires": {},
+      "competences_declarees": [
+        "architecture_systemes"
+      ],
+      "centres_interet": [
+        "robotique"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "ingenierie_electronique"
+      ],
+      "environnement_travail_recherche": "laboratoire_atelier",
+      "serie_bac": "C",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": null,
+    "metier_exerce": "Business Analyste Odoo",
+    "adequation_formation_metier": 4,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "aucun trait de profil réellement déclaré"
+  },
+  {
+    "id": "reponse_0021",
+    "population": "etudiant",
+    "parcours_declare": "ESIIA",
+    "parcours_brut": "ESIIA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 13.0
+      },
+      "competences_declarees": [
+        "architecture_systemes",
+        "programmation"
+      ],
+      "centres_interet": [
+        "robotique"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "systemes_embarques"
+      ],
+      "environnement_travail_recherche": "laboratoire_atelier",
+      "serie_bac": "C",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 3,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0022",
+    "population": "professionnel",
+    "parcours_declare": "ESIIA",
+    "parcours_brut": "ESIIA 2009",
+    "profil": {
+      "matieres_preferees": [],
+      "resultats_scolaires": {},
+      "competences_declarees": [
+        "programmation"
+      ],
+      "centres_interet": [
+        "robotique"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "ingenierie_electronique"
+      ],
+      "environnement_travail_recherche": "laboratoire_atelier",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": null,
+    "metier_exerce": "Enseignant Chercheur et Développeur IA",
+    "adequation_formation_metier": 5,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "aucun trait de profil réellement déclaré"
+  },
+  {
+    "id": "reponse_0023",
+    "population": "etudiant",
+    "parcours_declare": "IMTICIA",
+    "parcours_brut": "IMTICIA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 13.0
+      },
+      "competences_declarees": [
+        "multimedia"
+      ],
+      "centres_interet": [
+        "creation_numerique",
+        "audiovisuel"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "production_multimedia"
+      ],
+      "environnement_travail_recherche": "studio_creatif",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 4,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0024",
+    "population": "etudiant",
+    "parcours_declare": "ISAIA",
+    "parcours_brut": "ISAIA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques",
+        "Physique"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 16.0,
+        "Physique": 16.0
+      },
+      "competences_declarees": [
+        "analyse_de_donnees"
+      ],
+      "centres_interet": [
+        "finance"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "data_analyst"
+      ],
+      "environnement_travail_recherche": "bureau_analytique",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 4,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0025",
+    "population": "etudiant",
+    "parcours_declare": "ESIIA",
+    "parcours_brut": "ESIIA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques",
+        "Physique"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 13.0,
+        "Physique": 13.0
+      },
+      "competences_declarees": [
+        "electronique"
+      ],
+      "centres_interet": [
+        "materiel_informatique"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "ingenierie_electronique"
+      ],
+      "environnement_travail_recherche": "laboratoire_atelier",
+      "serie_bac": "C",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 4,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0026",
+    "population": "etudiant",
+    "parcours_declare": "IGGLIA",
+    "parcours_brut": "IGGLIA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 13.0
+      },
+      "competences_declarees": [
+        "algorithmique"
+      ],
+      "centres_interet": [
+        "logiciels"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "gestion_it"
+      ],
+      "environnement_travail_recherche": "bureau_informatique",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 4,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0027",
+    "population": "etudiant",
+    "parcours_declare": "EMII",
+    "parcours_brut": "EMII",
+    "profil": {
+      "matieres_preferees": [
+        "Physique"
+      ],
+      "resultats_scolaires": {
+        "Physique": 19.0
+      },
+      "competences_declarees": [
+        "mecanique"
+      ],
+      "centres_interet": [
+        "robotique_industrielle"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "technicien_industriel"
+      ],
+      "environnement_travail_recherche": "usine_atelier",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 5,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0028",
+    "population": "etudiant",
+    "parcours_declare": "IGGLIA",
+    "parcours_brut": "IGGLIA",
+    "profil": {
+      "matieres_preferees": [
+        "Informatique"
+      ],
+      "resultats_scolaires": {
+        "Informatique": 16.0
+      },
+      "competences_declarees": [
+        "algorithmique"
+      ],
+      "centres_interet": [
+        "entrepreneuriat"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "gestion_it"
+      ],
+      "environnement_travail_recherche": "bureau_informatique",
+      "serie_bac": "S",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 4,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0029",
+    "population": "etudiant",
+    "parcours_declare": "ESIIA",
+    "parcours_brut": "ESIIA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques",
+        "Informatique"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 19.0,
+        "Informatique": 19.0
+      },
+      "competences_declarees": [
+        "architecture_systemes"
+      ],
+      "centres_interet": [
+        "robotique"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "systemes_embarques"
+      ],
+      "environnement_travail_recherche": "laboratoire_atelier",
+      "serie_bac": "C",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 3,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0030",
+    "population": "professionnel",
+    "parcours_declare": null,
+    "parcours_brut": "3 année",
+    "profil": {
+      "matieres_preferees": [],
+      "resultats_scolaires": {},
+      "competences_declarees": [],
+      "centres_interet": [],
+      "activites_projets": [],
+      "preferences_professionnelles": [],
+      "environnement_travail_recherche": null,
+      "serie_bac": null,
+      "informations_manquantes": []
+    },
+    "provenance": {},
+    "satisfaction": null,
+    "metier_exerce": "Automation Lead RPA",
+    "adequation_formation_metier": 1,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "parcours non résolu depuis la réponse libre"
+  },
+  {
+    "id": "reponse_0031",
+    "population": "etudiant",
+    "parcours_declare": "ISAIA",
+    "parcours_brut": "ISAIA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques",
+        "Informatique"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 13.0,
+        "Informatique": 13.0
+      },
+      "competences_declarees": [
+        "analyse_de_donnees"
+      ],
+      "centres_interet": [
+        "finance"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "data_analyst"
+      ],
+      "environnement_travail_recherche": "bureau_analytique",
+      "serie_bac": "S",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 4,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0032",
+    "population": "professionnel",
+    "parcours_declare": "IGGLIA",
+    "parcours_brut": "Igglia 2014-2019",
+    "profil": {
+      "matieres_preferees": [],
+      "resultats_scolaires": {},
+      "competences_declarees": [
+        "programmation",
+        "gestion_de_projet"
+      ],
+      "centres_interet": [
+        "entrepreneuriat"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "gestion_it"
+      ],
+      "environnement_travail_recherche": "bureau_informatique",
+      "serie_bac": "C",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": null,
+    "metier_exerce": "Développeur fullstack",
+    "adequation_formation_metier": 1,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "aucun trait de profil réellement déclaré"
+  },
+  {
+    "id": "reponse_0033",
+    "population": "professionnel",
+    "parcours_declare": "ISAIA",
+    "parcours_brut": "ISAIA - 2024",
+    "profil": {
+      "matieres_preferees": [],
+      "resultats_scolaires": {},
+      "competences_declarees": [
+        "analyse_de_donnees"
+      ],
+      "centres_interet": [
+        "finance"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "informatique_decisionnelle"
+      ],
+      "environnement_travail_recherche": "bureau_analytique",
+      "serie_bac": "C",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": null,
+    "metier_exerce": "Développeur mobile",
+    "adequation_formation_metier": 4,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "aucun trait de profil réellement déclaré"
+  },
+  {
+    "id": "reponse_0034",
+    "population": "etudiant",
+    "parcours_declare": "IGGLIA",
+    "parcours_brut": "IGGLIA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques",
+        "Informatique",
+        "Langues"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 13.0,
+        "Informatique": 13.0,
+        "Langues": 13.0
+      },
+      "competences_declarees": [
+        "gestion_de_projet"
+      ],
+      "centres_interet": [
+        "technologie",
+        "logiciels"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "developpement_logiciel"
+      ],
+      "environnement_travail_recherche": "bureau_informatique",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 2,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0035",
+    "population": "etudiant",
+    "parcours_declare": "IGGLIA",
+    "parcours_brut": "IGGLIA",
+    "profil": {
+      "matieres_preferees": [
+        "Physique"
+      ],
+      "resultats_scolaires": {
+        "Physique": 16.0
+      },
+      "competences_declarees": [
+        "gestion_de_projet",
+        "programmation"
+      ],
+      "centres_interet": [
+        "entrepreneuriat"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "gestion_it"
+      ],
+      "environnement_travail_recherche": "bureau_informatique",
+      "serie_bac": "S",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 5,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0036",
+    "population": "etudiant",
+    "parcours_declare": "EMII",
+    "parcours_brut": "EMII",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 13.0
+      },
+      "competences_declarees": [
+        "automatisme"
+      ],
+      "centres_interet": [
+        "robotique_industrielle"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "technicien_industriel"
+      ],
+      "environnement_travail_recherche": "usine_atelier",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 5,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0037",
+    "population": "etudiant",
+    "parcours_declare": "IGGLIA",
+    "parcours_brut": "IGGLIA",
+    "profil": {
+      "matieres_preferees": [
+        "Informatique"
+      ],
+      "resultats_scolaires": {
+        "Informatique": 13.0
+      },
+      "competences_declarees": [
+        "gestion_de_projet"
+      ],
+      "centres_interet": [
+        "logiciels"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "gestion_it"
+      ],
+      "environnement_travail_recherche": "bureau_informatique",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 4,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0038",
+    "population": "etudiant",
+    "parcours_declare": "IGGLIA",
+    "parcours_brut": "IGGLIA",
+    "profil": {
+      "matieres_preferees": [
+        "Physique",
+        "Langues"
+      ],
+      "resultats_scolaires": {
+        "Physique": 10.0,
+        "Langues": 10.0
+      },
+      "competences_declarees": [
+        "algorithmique"
+      ],
+      "centres_interet": [
+        "logiciels",
+        "technologie"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "developpement_logiciel"
+      ],
+      "environnement_travail_recherche": "bureau_informatique",
+      "serie_bac": "S",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 1,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0039",
+    "population": "etudiant",
+    "parcours_declare": "GCA",
+    "parcours_brut": "GCA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 10.0
+      },
+      "competences_declarees": [
+        "gestion_chantier"
+      ],
+      "centres_interet": [
+        "architecture"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "ingenieur_btp"
+      ],
+      "environnement_travail_recherche": "chantier_bureau_etudes",
+      "serie_bac": "C",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 1,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0040",
+    "population": "etudiant",
+    "parcours_declare": "GCA",
+    "parcours_brut": "GCA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 6.0
+      },
+      "competences_declarees": [
+        "gestion_chantier"
+      ],
+      "centres_interet": [
+        "architecture"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "architecte"
+      ],
+      "environnement_travail_recherche": "chantier_bureau_etudes",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 1,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0041",
+    "population": "etudiant",
+    "parcours_declare": "IGGLIA",
+    "parcours_brut": "IGGLIA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 16.0
+      },
+      "competences_declarees": [
+        "gestion_de_projet",
+        "programmation"
+      ],
+      "centres_interet": [
+        "technologie"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "developpement_logiciel"
+      ],
+      "environnement_travail_recherche": "bureau_informatique",
+      "serie_bac": "C",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 2,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0042",
+    "population": "etudiant",
+    "parcours_declare": "IGGLIA",
+    "parcours_brut": "IGGLIA",
+    "profil": {
+      "matieres_preferees": [
+        "Langues"
+      ],
+      "resultats_scolaires": {
+        "Langues": 16.0
+      },
+      "competences_declarees": [
+        "programmation",
+        "gestion_de_projet"
+      ],
+      "centres_interet": [
+        "logiciels"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "developpement_logiciel"
+      ],
+      "environnement_travail_recherche": "bureau_informatique",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 2,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0043",
+    "population": "etudiant",
+    "parcours_declare": "GCA",
+    "parcours_brut": "GCA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 19.0
+      },
+      "competences_declarees": [
+        "dessin_technique"
+      ],
+      "centres_interet": [
+        "construction",
+        "urbanisme"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "architecte"
+      ],
+      "environnement_travail_recherche": "chantier_bureau_etudes",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 5,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0044",
+    "population": "etudiant",
+    "parcours_declare": "GCA",
+    "parcours_brut": "GCA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 6.0
+      },
+      "competences_declarees": [
+        "dessin_technique"
+      ],
+      "centres_interet": [
+        "architecture"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "architecte"
+      ],
+      "environnement_travail_recherche": "chantier_bureau_etudes",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 1,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0045",
+    "population": "etudiant",
+    "parcours_declare": "IGGLIA",
+    "parcours_brut": "IGGLIA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques",
+        "Physique",
+        "Langues"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 13.0,
+        "Physique": 13.0,
+        "Langues": 13.0
+      },
+      "competences_declarees": [
+        "programmation",
+        "algorithmique"
+      ],
+      "centres_interet": [
+        "technologie"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "gestion_it"
+      ],
+      "environnement_travail_recherche": "bureau_informatique",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 4,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0046",
+    "population": "etudiant",
+    "parcours_declare": "GCA",
+    "parcours_brut": "GCA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 10.0
+      },
+      "competences_declarees": [
+        "dessin_technique"
+      ],
+      "centres_interet": [
+        "urbanisme"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "ingenieur_btp"
+      ],
+      "environnement_travail_recherche": "chantier_bureau_etudes",
+      "serie_bac": "C",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 4,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0047",
+    "population": "etudiant",
+    "parcours_declare": "IGGLIA",
+    "parcours_brut": "IGGLIA",
+    "profil": {
+      "matieres_preferees": [
+        "Informatique"
+      ],
+      "resultats_scolaires": {
+        "Informatique": 13.0
+      },
+      "competences_declarees": [
+        "programmation"
+      ],
+      "centres_interet": [
+        "technologie",
+        "logiciels"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "gestion_it"
+      ],
+      "environnement_travail_recherche": "bureau_informatique",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 4,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0048",
+    "population": "professionnel",
+    "parcours_declare": "IGGLIA",
+    "parcours_brut": "IGGLIA + 2023",
+    "profil": {
+      "matieres_preferees": [],
+      "resultats_scolaires": {},
+      "competences_declarees": [
+        "gestion_de_projet"
+      ],
+      "centres_interet": [
+        "entrepreneuriat"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "gestion_it"
+      ],
+      "environnement_travail_recherche": "bureau_informatique",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": null,
+    "metier_exerce": "Software engineer",
+    "adequation_formation_metier": 3,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "aucun trait de profil réellement déclaré"
+  },
+  {
+    "id": "reponse_0049",
+    "population": "etudiant",
+    "parcours_declare": "AEE",
+    "parcours_brut": "AEE",
+    "profil": {
+      "matieres_preferees": [
+        "Histoire et géographie"
+      ],
+      "resultats_scolaires": {
+        "Histoire et géographie": 13.0
+      },
+      "competences_declarees": [
+        "techniques_agricoles"
+      ],
+      "centres_interet": [
+        "environnement_rural"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "technicien_agricole"
+      ],
+      "environnement_travail_recherche": "terrain_rural",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 5,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0050",
+    "population": "professionnel",
+    "parcours_declare": "IGGLIA",
+    "parcours_brut": "IGGLIA 2023",
+    "profil": {
+      "matieres_preferees": [],
+      "resultats_scolaires": {},
+      "competences_declarees": [
+        "gestion_de_projet"
+      ],
+      "centres_interet": [
+        "logiciels"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "gestion_it"
+      ],
+      "environnement_travail_recherche": "bureau_informatique",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": null,
+    "metier_exerce": "Développeur web",
+    "adequation_formation_metier": 1,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "aucun trait de profil réellement déclaré"
+  },
+  {
+    "id": "reponse_0051",
+    "population": "etudiant",
+    "parcours_declare": "EMII",
+    "parcours_brut": "EMII",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 13.0
+      },
+      "competences_declarees": [
+        "mecanique"
+      ],
+      "centres_interet": [
+        "machines"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "maintenance"
+      ],
+      "environnement_travail_recherche": "usine_atelier",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 4,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0052",
+    "population": "etudiant",
+    "parcours_declare": "ISAIA",
+    "parcours_brut": "ISAIA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 13.0
+      },
+      "competences_declarees": [
+        "statistiques"
+      ],
+      "centres_interet": [
+        "donnees"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "data_analyst"
+      ],
+      "environnement_travail_recherche": "bureau_analytique",
+      "serie_bac": "S",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 4,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0053",
+    "population": "etudiant",
+    "parcours_declare": "ESIIA",
+    "parcours_brut": "ESIIA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 16.0
+      },
+      "competences_declarees": [
+        "programmation"
+      ],
+      "centres_interet": [
+        "robotique"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "ingenierie_electronique"
+      ],
+      "environnement_travail_recherche": "laboratoire_atelier",
+      "serie_bac": "S",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 1,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0054",
+    "population": "etudiant",
+    "parcours_declare": "IGGLIA",
+    "parcours_brut": "IGGLIA",
+    "profil": {
+      "matieres_preferees": [
+        "Informatique"
+      ],
+      "resultats_scolaires": {
+        "Informatique": 13.0
+      },
+      "competences_declarees": [
+        "gestion_de_projet"
+      ],
+      "centres_interet": [
+        "entrepreneuriat"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "gestion_it"
+      ],
+      "environnement_travail_recherche": "bureau_informatique",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 3,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0055",
+    "population": "etudiant",
+    "parcours_declare": "IGGLIA",
+    "parcours_brut": "IGGLIA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques",
+        "Informatique",
+        "Langues"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 13.0,
+        "Informatique": 13.0,
+        "Langues": 13.0
+      },
+      "competences_declarees": [
+        "programmation"
+      ],
+      "centres_interet": [
+        "technologie"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "gestion_it"
+      ],
+      "environnement_travail_recherche": "bureau_informatique",
+      "serie_bac": "C",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 4,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0056",
+    "population": "etudiant",
+    "parcours_declare": "FIC",
+    "parcours_brut": "FIC",
+    "profil": {
+      "matieres_preferees": [
+        "Langues",
+        "SVT"
+      ],
+      "resultats_scolaires": {
+        "Langues": 16.0,
+        "SVT": 16.0
+      },
+      "competences_declarees": [
+        "analyse_financiere"
+      ],
+      "centres_interet": [
+        "finance"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "analyste_financier"
+      ],
+      "environnement_travail_recherche": "bureau",
+      "serie_bac": "A2",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 3,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0057",
+    "population": "etudiant",
+    "parcours_declare": "DTJA",
+    "parcours_brut": "DTJA",
+    "profil": {
+      "matieres_preferees": [
+        "Philosophie",
+        "même si je suis en série scientifique"
+      ],
+      "resultats_scolaires": {
+        "Philosophie": 13.0,
+        "même si je suis en série scientifique": 13.0
+      },
+      "competences_declarees": [
+        "redaction"
+      ],
+      "centres_interet": [
+        "droit_des_affaires"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "juriste_entreprise"
+      ],
+      "environnement_travail_recherche": "bureau_cabinet",
+      "serie_bac": "A",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 5,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0058",
+    "population": "etudiant",
+    "parcours_declare": "IGGLIA",
+    "parcours_brut": "IGGLIA",
+    "profil": {
+      "matieres_preferees": [
+        "Informatique"
+      ],
+      "resultats_scolaires": {
+        "Informatique": 13.0
+      },
+      "competences_declarees": [
+        "programmation",
+        "algorithmique"
+      ],
+      "centres_interet": [
+        "entrepreneuriat"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "developpement_logiciel"
+      ],
+      "environnement_travail_recherche": "bureau_informatique",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 3,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0059",
+    "population": "etudiant",
+    "parcours_declare": null,
+    "parcours_brut": null,
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques",
+        "Physique"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 6.0,
+        "Physique": 6.0
+      },
+      "competences_declarees": [],
+      "centres_interet": [],
+      "activites_projets": [],
+      "preferences_professionnelles": [],
+      "environnement_travail_recherche": null,
+      "serie_bac": null,
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee"
+    },
+    "satisfaction": 3,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "parcours non résolu depuis la réponse libre"
+  },
+  {
+    "id": "reponse_0060",
+    "population": "etudiant",
+    "parcours_declare": "DTJA",
+    "parcours_brut": "DTJA",
+    "profil": {
+      "matieres_preferees": [
+        "Langues"
+      ],
+      "resultats_scolaires": {
+        "Langues": 13.0
+      },
+      "competences_declarees": [
+        "redaction"
+      ],
+      "centres_interet": [
+        "droit_des_affaires"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "juriste_entreprise"
+      ],
+      "environnement_travail_recherche": "bureau_cabinet",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 3,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0061",
+    "population": "etudiant",
+    "parcours_declare": "IMTICIA",
+    "parcours_brut": "IMTICIA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques",
+        "Physique"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 13.0,
+        "Physique": 13.0
+      },
+      "competences_declarees": [
+        "multimedia"
+      ],
+      "centres_interet": [
+        "reseaux_sociaux",
+        "audiovisuel"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "production_multimedia"
+      ],
+      "environnement_travail_recherche": "studio_creatif",
+      "serie_bac": "S",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 4,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0062",
+    "population": "professionnel",
+    "parcours_declare": "ESIIA",
+    "parcours_brut": "ESIIA - 2017",
+    "profil": {
+      "matieres_preferees": [],
+      "resultats_scolaires": {},
+      "competences_declarees": [
+        "electronique"
+      ],
+      "centres_interet": [
+        "materiel_informatique"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "systemes_embarques"
+      ],
+      "environnement_travail_recherche": "laboratoire_atelier",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": null,
+    "metier_exerce": "Technical Lead",
+    "adequation_formation_metier": 4,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "aucun trait de profil réellement déclaré"
+  },
+  {
+    "id": "reponse_0063",
+    "population": "etudiant",
+    "parcours_declare": "ISAIA",
+    "parcours_brut": "ISAIA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 13.0
+      },
+      "competences_declarees": [
+        "statistiques"
+      ],
+      "centres_interet": [
+        "finance"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "data_analyst"
+      ],
+      "environnement_travail_recherche": "bureau_analytique",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 4,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0064",
+    "population": "etudiant",
+    "parcours_declare": "ICMP",
+    "parcours_brut": "ICMP",
+    "profil": {
+      "matieres_preferees": [
+        "Langues"
+      ],
+      "resultats_scolaires": {
+        "Langues": 13.0
+      },
+      "competences_declarees": [
+        "chimie_industrielle"
+      ],
+      "centres_interet": [
+        "ressources_naturelles"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "ingenieur_chimiste"
+      ],
+      "environnement_travail_recherche": "site_industriel_terrain",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 2,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0065",
+    "population": "etudiant",
+    "parcours_declare": "IMTICIA",
+    "parcours_brut": "IMTICIA",
+    "profil": {
+      "matieres_preferees": [
+        "Musique et MAO"
+      ],
+      "resultats_scolaires": {
+        "Musique et MAO": 10.0
+      },
+      "competences_declarees": [
+        "communication_numerique"
+      ],
+      "centres_interet": [
+        "creation_numerique"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "production_multimedia"
+      ],
+      "environnement_travail_recherche": "studio_creatif",
+      "serie_bac": "S",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 3,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0066",
+    "population": "etudiant",
+    "parcours_declare": "IAA",
+    "parcours_brut": "IAA",
+    "profil": {
+      "matieres_preferees": [
+        "Sciences de la vie et de la Terre"
+      ],
+      "resultats_scolaires": {
+        "Sciences de la vie et de la Terre": 13.0
+      },
+      "competences_declarees": [
+        "process_industriel"
+      ],
+      "centres_interet": [
+        "nutrition"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "production_agroalimentaire"
+      ],
+      "environnement_travail_recherche": "usine_agroalimentaire",
+      "serie_bac": "C",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 2,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0067",
+    "population": "etudiant",
+    "parcours_declare": "CAA",
+    "parcours_brut": "CAA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques",
+        "Comptabilité"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 13.0,
+        "Comptabilité": 13.0
+      },
+      "competences_declarees": [
+        "negociation"
+      ],
+      "centres_interet": [
+        "entrepreneuriat"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "commercial"
+      ],
+      "environnement_travail_recherche": "bureau_terrain_commercial",
+      "serie_bac": "C",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 3,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0068",
+    "population": "professionnel",
+    "parcours_declare": null,
+    "parcours_brut": "Informatique et télécommunications 2025",
+    "profil": {
+      "matieres_preferees": [],
+      "resultats_scolaires": {},
+      "competences_declarees": [],
+      "centres_interet": [],
+      "activites_projets": [],
+      "preferences_professionnelles": [],
+      "environnement_travail_recherche": null,
+      "serie_bac": null,
+      "informations_manquantes": []
+    },
+    "provenance": {},
+    "satisfaction": null,
+    "metier_exerce": "Trader institutionnel",
+    "adequation_formation_metier": 1,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "parcours non résolu depuis la réponse libre"
+  },
+  {
+    "id": "reponse_0069",
+    "population": "etudiant",
+    "parcours_declare": "PIP",
+    "parcours_brut": "PIP",
+    "profil": {
+      "matieres_preferees": [
+        "Physique"
+      ],
+      "resultats_scolaires": {
+        "Physique": 13.0
+      },
+      "competences_declarees": [
+        "chimie_industrielle"
+      ],
+      "centres_interet": [
+        "recherche"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "industrie_pharma"
+      ],
+      "environnement_travail_recherche": "laboratoire",
+      "serie_bac": "S",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 3,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0070",
+    "population": "etudiant",
+    "parcours_declare": "IGGLIA",
+    "parcours_brut": "IGGLIA",
+    "profil": {
+      "matieres_preferees": [
+        "Informatique"
+      ],
+      "resultats_scolaires": {
+        "Informatique": 13.0
+      },
+      "competences_declarees": [
+        "gestion_de_projet"
+      ],
+      "centres_interet": [
+        "entrepreneuriat",
+        "technologie"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "developpement_logiciel"
+      ],
+      "environnement_travail_recherche": "bureau_informatique",
+      "serie_bac": "S",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 2,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0071",
+    "population": "etudiant",
+    "parcours_declare": "ESIIA",
+    "parcours_brut": "ESIIA",
+    "profil": {
+      "matieres_preferees": [
+        "Informatique",
+        "Langues"
+      ],
+      "resultats_scolaires": {
+        "Informatique": 13.0,
+        "Langues": 13.0
+      },
+      "competences_declarees": [
+        "programmation"
+      ],
+      "centres_interet": [
+        "robotique"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "ingenierie_electronique"
+      ],
+      "environnement_travail_recherche": "laboratoire_atelier",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 4,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0072",
+    "population": "etudiant",
+    "parcours_declare": "IMTICIA",
+    "parcours_brut": "IMTICIA",
+    "profil": {
+      "matieres_preferees": [
+        "Physique",
+        "Langues"
+      ],
+      "resultats_scolaires": {
+        "Physique": 10.0,
+        "Langues": 10.0
+      },
+      "competences_declarees": [
+        "communication_numerique"
+      ],
+      "centres_interet": [
+        "audiovisuel"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "production_multimedia"
+      ],
+      "environnement_travail_recherche": "studio_creatif",
+      "serie_bac": "S",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 4,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0073",
+    "population": "etudiant",
+    "parcours_declare": "CAA",
+    "parcours_brut": "CAA",
+    "profil": {
+      "matieres_preferees": [
+        "Langues"
+      ],
+      "resultats_scolaires": {
+        "Langues": 13.0
+      },
+      "competences_declarees": [
+        "negociation"
+      ],
+      "centres_interet": [
+        "entrepreneuriat"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "commercial"
+      ],
+      "environnement_travail_recherche": "bureau_terrain_commercial",
+      "serie_bac": "A",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 3,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0074",
+    "population": "etudiant",
+    "parcours_declare": "TEH",
+    "parcours_brut": "TEH",
+    "profil": {
+      "matieres_preferees": [
+        "Langues"
+      ],
+      "resultats_scolaires": {
+        "Langues": 13.0
+      },
+      "competences_declarees": [
+        "gestion_hoteliere"
+      ],
+      "centres_interet": [
+        "hospitalite"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "accueil_touristique"
+      ],
+      "environnement_travail_recherche": "hotel_contact_client",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 5,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0075",
+    "population": "etudiant",
+    "parcours_declare": "ISAIA",
+    "parcours_brut": "ISAIA",
+    "profil": {
+      "matieres_preferees": [
+        "Économie"
+      ],
+      "resultats_scolaires": {
+        "Économie": 16.0
+      },
+      "competences_declarees": [
+        "analyse_de_donnees"
+      ],
+      "centres_interet": [
+        "donnees"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "data_analyst"
+      ],
+      "environnement_travail_recherche": "bureau_analytique",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 4,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0076",
+    "population": "etudiant",
+    "parcours_declare": "ESIIA",
+    "parcours_brut": "ESIIA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 16.0
+      },
+      "competences_declarees": [
+        "electronique"
+      ],
+      "centres_interet": [
+        "materiel_informatique"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "systemes_embarques"
+      ],
+      "environnement_travail_recherche": "laboratoire_atelier",
+      "serie_bac": "C",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 3,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0077",
+    "population": "etudiant",
+    "parcours_declare": "IGGLIA",
+    "parcours_brut": "IGGLIA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques",
+        "Informatique",
+        "Langues"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 13.0,
+        "Informatique": 13.0,
+        "Langues": 13.0
+      },
+      "competences_declarees": [
+        "programmation",
+        "gestion_de_projet"
+      ],
+      "centres_interet": [
+        "entrepreneuriat",
+        "technologie"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "gestion_it"
+      ],
+      "environnement_travail_recherche": "bureau_informatique",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 4,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0078",
+    "population": "etudiant",
+    "parcours_declare": "PIP",
+    "parcours_brut": "PIP",
+    "profil": {
+      "matieres_preferees": [
+        "SVT"
+      ],
+      "resultats_scolaires": {
+        "SVT": 13.0
+      },
+      "competences_declarees": [
+        "chimie_industrielle"
+      ],
+      "centres_interet": [
+        "sante"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "recherche_pharmaceutique"
+      ],
+      "environnement_travail_recherche": "laboratoire",
+      "serie_bac": "A",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 3,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0079",
+    "population": "etudiant",
+    "parcours_declare": "IMTICIA",
+    "parcours_brut": "IMTICIA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques",
+        "Langues"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 13.0,
+        "Langues": 13.0
+      },
+      "competences_declarees": [
+        "multimedia"
+      ],
+      "centres_interet": [
+        "audiovisuel"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "communication_digitale"
+      ],
+      "environnement_travail_recherche": "studio_creatif",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 5,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0080",
+    "population": "etudiant",
+    "parcours_declare": "ISAIA",
+    "parcours_brut": "ISAIA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 13.0
+      },
+      "competences_declarees": [
+        "statistiques"
+      ],
+      "centres_interet": [
+        "finance"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "informatique_decisionnelle"
+      ],
+      "environnement_travail_recherche": "bureau_analytique",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 5,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0081",
+    "population": "etudiant",
+    "parcours_declare": "ISAIA",
+    "parcours_brut": "ISAIA",
+    "profil": {
+      "matieres_preferees": [
+        "Informatique"
+      ],
+      "resultats_scolaires": {
+        "Informatique": 13.0
+      },
+      "competences_declarees": [
+        "statistiques"
+      ],
+      "centres_interet": [
+        "finance"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "informatique_decisionnelle"
+      ],
+      "environnement_travail_recherche": "bureau_analytique",
+      "serie_bac": "C",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 4,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0082",
+    "population": "etudiant",
+    "parcours_declare": "IMTICIA",
+    "parcours_brut": "IMTICIA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 16.0
+      },
+      "competences_declarees": [
+        "communication_numerique"
+      ],
+      "centres_interet": [
+        "creation_numerique"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "production_multimedia"
+      ],
+      "environnement_travail_recherche": "studio_creatif",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 5,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0083",
+    "population": "professionnel",
+    "parcours_declare": "ESIIA",
+    "parcours_brut": "ESIIA Licence 2013 / Master 2016",
+    "profil": {
+      "matieres_preferees": [],
+      "resultats_scolaires": {},
+      "competences_declarees": [
+        "architecture_systemes"
+      ],
+      "centres_interet": [
+        "robotique"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "systemes_embarques"
+      ],
+      "environnement_travail_recherche": "laboratoire_atelier",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": null,
+    "metier_exerce": "Enseignant chercheur - Charger de liaison pédagogique",
+    "adequation_formation_metier": 4,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "aucun trait de profil réellement déclaré"
+  },
+  {
+    "id": "reponse_0084",
+    "population": "etudiant",
+    "parcours_declare": "ISAIA",
+    "parcours_brut": "ISAIA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques",
+        "Informatique",
+        "Physique",
+        "Langues"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 16.0,
+        "Informatique": 16.0,
+        "Physique": 16.0,
+        "Langues": 16.0
+      },
+      "competences_declarees": [
+        "statistiques"
+      ],
+      "centres_interet": [
+        "donnees"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "data_analyst"
+      ],
+      "environnement_travail_recherche": "bureau_analytique",
+      "serie_bac": "S",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 4,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0085",
+    "population": "etudiant",
+    "parcours_declare": "ESIIA",
+    "parcours_brut": "ESIIA",
+    "profil": {
+      "matieres_preferees": [
+        "Mathématiques",
+        "Informatique"
+      ],
+      "resultats_scolaires": {
+        "Mathématiques": 13.0,
+        "Informatique": 13.0
+      },
+      "competences_declarees": [
+        "architecture_systemes"
+      ],
+      "centres_interet": [
+        "materiel_informatique"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "systemes_embarques"
+      ],
+      "environnement_travail_recherche": "laboratoire_atelier",
+      "serie_bac": "C",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "matieres_preferees": "declaree",
+      "resultats_scolaires": "derivee",
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": 2,
+    "metier_exerce": null,
+    "adequation_formation_metier": null,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "traits fabriqués à partir des archétypes ML — évaluation contaminée"
+  },
+  {
+    "id": "reponse_0086",
+    "population": "professionnel",
+    "parcours_declare": "ESIIA",
+    "parcours_brut": "ESIIA + 2004",
+    "profil": {
+      "matieres_preferees": [],
+      "resultats_scolaires": {},
+      "competences_declarees": [
+        "programmation"
+      ],
+      "centres_interet": [
+        "robotique"
+      ],
+      "activites_projets": [],
+      "preferences_professionnelles": [
+        "ingenierie_electronique"
+      ],
+      "environnement_travail_recherche": "laboratoire_atelier",
+      "serie_bac": "D",
+      "informations_manquantes": []
+    },
+    "provenance": {
+      "serie_bac": "generee",
+      "competences_declarees": "generee",
+      "centres_interet": "generee",
+      "preferences_professionnelles": "generee",
+      "environnement_travail_recherche": "generee"
+    },
+    "satisfaction": null,
+    "metier_exerce": "Informaticien",
+    "adequation_formation_metier": 3,
+    "utilisable_pour_evaluation": false,
+    "motif_exclusion": "aucun trait de profil réellement déclaré"
+  }
+]
