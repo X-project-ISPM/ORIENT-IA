@@ -35,7 +35,7 @@
     ]
   },
   "notre_enquete": {
-    "source": "Notre propre enquête, diffusée via le Google Form généré par `generer_google_form.gs` à partir de `questionnaire.md`. Importée par `python -m src.enquete_import <csv> --orientia`.",
+    "source": "Notre propre enquête (https://docs.google.com/forms/d/1_zk9OSeopebfaF-yFrlDFh9kxLx_9XDEjF2BsaeuWyk), diffusée via le Google Form généré par `generer_google_form.gs` à partir de `questionnaire.md`. Voir l'entrée SRC-NOTRE-ENQUETE du registre des sources. Importée par `python -m src.enquete_import <csv> --orientia`.",
     "populations_visees": [
       "Étudiants de l'ISPM — profil au lycée, formation suivie, satisfaction, et formation qui aurait mieux convenu",
       "Professionnels diplômés — profil avant les études, métier exercé, adéquation, et formation qui aurait le mieux correspondu"

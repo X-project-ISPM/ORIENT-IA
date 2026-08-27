@@ -97,9 +97,9 @@
     ]
   },
   {
-    "id": "SRC-TIERS-ORIENTIA-LOL",
-    "titre": "TatumLn/Orient_IA_-LOL- — dataset ISPM et enquête terrain (équipe tierce, licence MIT)",
-    "url": "https://github.com/TatumLn/Orient_IA_-LOL-",
+    "id": "SURVEY",
+    "titre": "Formulaire d'enquête terrain ISPM",
+    "url": "https://docs.google.com/forms/d/1_zk9OSeopebfaF-yFrlDFh9kxLx_9XDEjF2BsaeuWyk/edit",
     "date_consultation": "2026-08-26",
     "statut": "externe",
     "donnees_extraites": [
@@ -113,6 +113,23 @@
       "L'enquête n'a demandé ni série de baccalauréat, ni compétences, ni centres d'intérêt, ni environnement de travail : ces champs sont absents des réponses réelles",
       "Les professionnels n'ont renseigné aucun trait de profil exploitable — seulement leur parcours et leur métier",
       "Le questionnaire diffusé n'est pas le nôtre (backend/data/enquete/questionnaire.md) : le montage des questions, l'ordre et les formulations diffèrent, ce qui limite la comparabilité avec une collecte que nous mènerions nous-mêmes"
+    ]
+  },
+  {
+    "id": "SRC-NOTRE-ENQUETE",
+    "titre": "ORIENT'IA — Enquête sur les parcours de formation (ISPM), notre propre collecte",
+    "url": "https://docs.google.com/forms/d/1_zk9OSeopebfaF-yFrlDFh9kxLx_9XDEjF2BsaeuWyk",
+    "date_consultation": "2026-08-27",
+    "statut": "institutionnel",
+    "donnees_extraites": [
+      "15 réponses (14 exploitables) : profil déclaré, formation suivie, satisfaction, et formation qui aurait mieux convenu",
+      "Seule collecte dont nous maîtrisons le questionnaire, la diffusion et la période"
+    ],
+    "limites": [
+      "15 réponses seulement : intervalle de confiance de ±22 points à p=0,5 — permet d'affirmer que le modèle bat le hasard, pas de chiffrer sa performance",
+      "5 parcours sur 16 représentés : aucune métrique par classe n'est possible",
+      "Une seule réponse professionnelle, alors que le sujet juge cette population la plus précieuse",
+      "Les 15 réponses ont été collectées avant correction d'un saut de page mal posé : 12 d'entre elles ont rempli les deux sections (voir le registre de collecte)"
     ]
   }
 ]
