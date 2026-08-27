@@ -8,6 +8,7 @@ La branche principale contenant la version à jour du projet est **`develop`**.
 
 - Backend (documentation de l'API) : [https://orient-ia-production.up.railway.app/docs](https://orient-ia-production.up.railway.app/docs)
 - Frontend : [https://x-project-orient-ia.vercel.app/chat](https://x-project-orient-ia.vercel.app/chat)
+- lien tuto : https://www.loom.com/share/57245d8b8750458d973cdb39c450fc65 - https://www.loom.com/share/e4d4f84f7f6f4041b77469ff78e74c79
 
 ## Démarrage rapide
 
