@@ -1,0 +1,34 @@
+{
+  "notre_enquete": {
+    "source": "Notre propre enquête, diffusée via le Google Form généré par `generer_google_form.gs` à partir de `questionnaire.md`. Importée par `python -m src.enquete_import <csv> --orientia`.",
+    "populations_visees": [
+      "Étudiants de l'ISPM — profil au lycée, formation suivie, satisfaction, et formation qui aurait mieux convenu",
+      "Professionnels diplômés — profil avant les études, métier exercé, adéquation, et formation qui aurait le mieux correspondu"
+    ],
+    "mode_diffusion": "Diffusion directe par l'équipe (réseaux personnels et promotions ISPM).",
+    "periode_collecte": "26 au 27 août 2026, pendant le hackathon.",
+    "reponses_recues": 15,
+    "reponses_retenues": 14,
+    "reponses_ecartees": 1,
+    "repartition_populations": {
+      "etudiant": 14,
+      "professionnel": 1
+    },
+    "texte_consentement": "J'ai lu ce qui précède et j'accepte que mes réponses anonymes soient utilisées dans le cadre de ce projet.",
+    "procedure_anonymisation": "Aucune donnée identifiante demandée (ni nom, ni e-mail, ni téléphone), et collecte des adresses e-mail désactivée dans Google Forms. À l'import, l'horodatage est écarté et l'identifiant est séquentiel.",
+    "traitements_posterieurs": [
+      "Lecture du CSV **par position** et non par nom de colonne : l'export Google Forms duplique les intitulés entre les deux sections (« Série de votre baccalauréat » apparaît deux fois), et `csv.DictReader` écraserait silencieusement la première occurrence.",
+      "Une réponse « Une formation hors ISPM » est écartée : réelle, mais hors du périmètre des 16 parcours que le modèle connaît.",
+      "« Aucune en particulier » n'est pas comptée comme une compétence : c'est une absence déclarée, la retenir gonflerait artificiellement le nombre de traits d'un profil.",
+      "Anomalie de routage corrigée à l'analyse : un saut de page mal posé dans le script de génération faisait enchaîner les étudiants sur la section professionnelle. 12 réponses sur 15 ont ainsi rempli les deux sections. Pour un répondant déclaré étudiant, seule la section étudiante est lue — celle vers laquelle il a été légitimement routé. Une réponse contredisait d'ailleurs sa propre étiquette d'une section à l'autre (ISAIA côté étudiant, IGGLIA côté professionnel)."
+    ],
+    "limites": [
+      "VOLUME — 15 réponses, 14 exploitables. À p=0,5 l'intervalle de confiance à 95 % est de ±22 points : ces réponses permettent d'affirmer que le modèle fait mieux que le hasard (6,2 % pour 16 classes), pas de chiffrer sa performance avec précision. Tout score doit être publié avec son intervalle.",
+      "COUVERTURE DES PARCOURS — seulement 5 parcours sur 16 représentés, contre 14 sur 16 pour l'enquête tierce. Aucune métrique par classe n'est possible ; seules l'exactitude globale et le top-k ont un sens.",
+      "UNE SEULE RÉPONSE PROFESSIONNELLE — la population que le sujet juge la plus précieuse est quasi absente. La question « quelle formation aurait le mieux correspondu ? », qui fournit une étiquette corrigée par l'expérience, ne repose donc que sur un cas.",
+      "AUTO-SÉLECTION — diffusion par les réseaux de l'équipe, majoritairement informatique : IGGLIA domine largement, plusieurs mentions sont absentes.",
+      "FENÊTRE DE COLLECTE COURTE — moins de 24 heures, ce qui limite mécaniquement le volume et favorise les répondants les plus proches de l'équipe.",
+      "ANOMALIE DE ROUTAGE — les 15 réponses ont été collectées avant correction du saut de page. Les données restent exploitables (voir traitements postérieurs), mais une collecte ultérieure avec le script corrigé ne serait pas produite dans des conditions strictement identiques."
+    ]
+  }
+}
